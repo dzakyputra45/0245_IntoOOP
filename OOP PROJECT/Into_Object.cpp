@@ -30,4 +30,8 @@ class Matakuliah{
             cout << "SKS: ";
             cin >> sks;
         }
+
+        void output(){
+            
+        }
 }
