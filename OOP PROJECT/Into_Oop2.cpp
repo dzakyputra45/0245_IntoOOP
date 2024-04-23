@@ -28,4 +28,6 @@ class bangunDatar{
 
 int main (){
     BangunDatar pp;
+    pp.input();
+
 }
