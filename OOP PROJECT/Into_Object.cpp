@@ -17,5 +17,8 @@ class mahasiswa{
 
 
 class Matakuliah{
-    
+    private: //Akses modifier
+        string kodemk;
+        string namamk;
+        int sks;
 }
