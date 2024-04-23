@@ -45,5 +45,6 @@ int main () {
     mhs.nama = "Dzaky";
     mhs.umur = 20;
     mhs.jurusan = "Teknik Informatika";
-    
+    mhs.output();
+
 }
